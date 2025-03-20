@@ -3,6 +3,13 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "stackblitzsaving_the_token_and_setting_it_in_the_cookie_assignment_1",
+  "version": "1.0.0",
+  "description": "- Understand the process of JWT token encryption and decryption for secure data transmission.",
+  "main": "script.js",
+  "author": "",
+  "license": "ISC"
 }
